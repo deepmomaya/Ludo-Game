@@ -1,4 +1,4 @@
-# 🎲 Ludo
+# Ludo
 
 A classic implementation of **Ludo** — one of the world's most popular board games — built in Java with a clean graphical interface.
 
